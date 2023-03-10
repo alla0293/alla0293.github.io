@@ -1,3 +1,4 @@
+
 .header {
     background-image: url('./777.jpg');
     background-size: cover;
@@ -66,7 +67,7 @@
       font-family: 'Times New Roman', Times, serif;
   }
   .contact-form {
-    max-width: 599px;
+    max-width: 600px;
     margin: 0 auto;
   }
   
